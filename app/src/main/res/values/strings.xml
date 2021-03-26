@@ -4,9 +4,11 @@
     <string name="preco">preço</string>
     <string name="autonomia">Autonomia</string>
     <string name="kms_por_litros">Kms por litros</string>
-    <string name="seu_gasto_total_sera_de">SEU GASTO TOTAL SERA DE:</string>
+    <string name="seu_gasto_total_sera_de">GASTO TOTAL:</string>
     <string name="total_preco">R$ 0</string>
     <string name="preco_litros">preço por litro</string>
     <string name="total_de_quilometros">Total de quilometros</string>
     <string name="Button_Calcular">calcular</string>
+    <string name="preencha_todos_campos">Preencha todas os campos da Tela  ou digite um valor valido !</string>
+    <string name="informe_valores_validos">Por favor,Informa valores válidos!</string>
 </resources>
