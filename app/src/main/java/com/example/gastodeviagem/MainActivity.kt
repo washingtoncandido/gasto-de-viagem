@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         }
     }
 
+
     private fun calcularGasto() {
         if(validarDistancia()&& validarAutonomy() && validarPreco()) {
 
